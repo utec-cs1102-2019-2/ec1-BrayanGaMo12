@@ -1,3 +1,5 @@
 C:/Users/alumno06/Desktop/ec1-BrayanGaMo12/session4b/cmake-build-debug/CMakeFiles/session4b.dir
+C:/Users/alumno06/Desktop/ec1-BrayanGaMo12/session4b/cmake-build-debug/CMakeFiles/session4b_ej3.dir
+C:/Users/alumno06/Desktop/ec1-BrayanGaMo12/session4b/cmake-build-debug/CMakeFiles/session4b_ej4.dir
 C:/Users/alumno06/Desktop/ec1-BrayanGaMo12/session4b/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/alumno06/Desktop/ec1-BrayanGaMo12/session4b/cmake-build-debug/CMakeFiles/rebuild_cache.dir
