@@ -27,5 +27,6 @@ void imprimir(int filas, int columnas, int *matrix[]){
         for(int j=0;j<columnas; j++){
             cout<<matrix[i][j]<<"\t";
         }
+        cout<<endl;
     }
 }
