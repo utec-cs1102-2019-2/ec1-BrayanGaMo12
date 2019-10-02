@@ -1,0 +1,3 @@
+C:/Users/alumno06/Desktop/BrayanGM/ec1-BrayanGaMo12/session7a/cmake-build-debug/CMakeFiles/session7a.dir
+C:/Users/alumno06/Desktop/BrayanGM/ec1-BrayanGaMo12/session7a/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/alumno06/Desktop/BrayanGM/ec1-BrayanGaMo12/session7a/cmake-build-debug/CMakeFiles/rebuild_cache.dir
