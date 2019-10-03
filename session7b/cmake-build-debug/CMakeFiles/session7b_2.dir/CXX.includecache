@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/alumno06/Desktop/BrayanGM/ec1-BrayanGaMo12/session7b/Ejercicio2.cpp
+iostream
+-
+vector
+-
+
