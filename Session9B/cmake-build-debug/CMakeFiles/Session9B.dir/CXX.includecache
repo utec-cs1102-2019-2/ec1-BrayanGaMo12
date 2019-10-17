@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/brayan.garcia/CLionProjects/BrayanGM/ec1-BrayanGaMo12/Session9B/Alumno.h
+iostream
+-
+
+C:/Users/brayan.garcia/CLionProjects/BrayanGM/ec1-BrayanGaMo12/Session9B/main.cpp
+iostream
+-
+Alumno.h
+C:/Users/brayan.garcia/CLionProjects/BrayanGM/ec1-BrayanGaMo12/Session9B/Alumno.h
+
