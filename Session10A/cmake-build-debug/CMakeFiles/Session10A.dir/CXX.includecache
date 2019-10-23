@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/brandon.celedonio/Desktop/BrayanGM/ec1-BrayanGaMo12/Session10A/Computadora.cpp
+Computadora.h
+C:/Users/brandon.celedonio/Desktop/BrayanGM/ec1-BrayanGaMo12/Session10A/Computadora.h
+
+C:/Users/brandon.celedonio/Desktop/BrayanGM/ec1-BrayanGaMo12/Session10A/Computadora.h
+iostream
+-
+
+C:/Users/brandon.celedonio/Desktop/BrayanGM/ec1-BrayanGaMo12/Session10A/Mouse.cpp
+Mouse.h
+C:/Users/brandon.celedonio/Desktop/BrayanGM/ec1-BrayanGaMo12/Session10A/Mouse.h
+
+C:/Users/brandon.celedonio/Desktop/BrayanGM/ec1-BrayanGaMo12/Session10A/Mouse.h
+iostream
+-
+vector
+-
+
+C:/Users/brandon.celedonio/Desktop/BrayanGM/ec1-BrayanGaMo12/Session10A/Teclado.cpp
+Teclado.h
+C:/Users/brandon.celedonio/Desktop/BrayanGM/ec1-BrayanGaMo12/Session10A/Teclado.h
+
+C:/Users/brandon.celedonio/Desktop/BrayanGM/ec1-BrayanGaMo12/Session10A/Teclado.h
+iostream
+-
+
+C:/Users/brandon.celedonio/Desktop/BrayanGM/ec1-BrayanGaMo12/Session10A/main.cpp
+iostream
+-
+Computadora.h
+C:/Users/brandon.celedonio/Desktop/BrayanGM/ec1-BrayanGaMo12/Session10A/Computadora.h
+ctime
+-
+
