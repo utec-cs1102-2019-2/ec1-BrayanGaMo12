@@ -14,15 +14,14 @@ Tablero::Tablero(int filas, int columnas) {
     }
 }
 
-void Tablero::instalar_minas() {
-    int a,b,c;
-    c=(filas+columnas)/filas;
-    a=rand()%(this->columnas);
-    b=rand()%(this->filas);
-    for (int i=0;i<c;i++) {
-        this->bloques[a][b].es_mina = true;
-    }
-
+void Tablero::instalar_minas(int filas, int columnas) {
+        srand(time(nullptr));
+        int a,b;
+        for(int i=0;i<12;i++){
+            a=rand()%(filas);
+            b=rand()%(columnas);
+        this->bloques[a][b].es_mina=true;
+        }
 }
 
 void Tablero::mostrar() {
@@ -38,5 +37,13 @@ void Tablero::mostrar() {
             }
         }
         cout<<endl;
+    }
+}
+void Tablero::contarminas(int filas, int columnas){
+    int a,b;
+    for (int i=0; i<filas;i++){
+        if(filas-1="*"){
+
+        }
     }
 }

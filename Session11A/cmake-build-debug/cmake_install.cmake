@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/miguel.saturno/Desktop/BrayanGM/ec1-BrayanGaMo12/Session11A
+# Install script for directory: C:/Users/brayan.garcia/Desktop/BrayanGM/ec1-BrayanGaMo12/Session11A
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/miguel.saturno/Desktop/BrayanGM/ec1-BrayanGaMo12/Session11A/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/brayan.garcia/Desktop/BrayanGM/ec1-BrayanGaMo12/Session11A/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

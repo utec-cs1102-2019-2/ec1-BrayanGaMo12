@@ -14,7 +14,8 @@ private:
     vector<vector<Bloque>> bloques;
 public:
     Tablero(int filas, int columnas);
-    void instalar_minas();
+    void instalar_minas(int filas, int columnas);
+    void contarminas(int filas, int columnas);
     void mostrar();
 
 
