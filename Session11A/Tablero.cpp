@@ -40,10 +40,21 @@ void Tablero::mostrar() {
     }
 }
 void Tablero::contarminas(int filas, int columnas){
-    int a,b;
-    for (int i=0; i<filas;i++){
-        if(filas-1="*"){
-
+    int a=0,b=0;
+    for (int i=0; i<filas;i++) {
+        if (filas - 1 = "*") {
+            a = a + 1;
+        } else if (filas + 1 = "*") {
+            a = a + 1;
         }
     }
+    for(int j=0;j<columnas;j++){
+        if (columnas-1="*"){
+            b=b+1;
+        } else if (columnas+1="*"){
+            b=b+1;
+        }
+
+    }
+    bloques[filas][columnas]=a+b;
 }

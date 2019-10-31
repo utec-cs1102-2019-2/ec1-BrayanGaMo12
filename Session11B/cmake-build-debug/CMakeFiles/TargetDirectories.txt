@@ -1,3 +1,0 @@
-C:/Users/brayan.garcia/Desktop/BrayanGM/ec1-BrayanGaMo12/Session11B/cmake-build-debug/CMakeFiles/Session11B.dir
-C:/Users/brayan.garcia/Desktop/BrayanGM/ec1-BrayanGaMo12/Session11B/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/brayan.garcia/Desktop/BrayanGM/ec1-BrayanGaMo12/Session11B/cmake-build-debug/CMakeFiles/rebuild_cache.dir

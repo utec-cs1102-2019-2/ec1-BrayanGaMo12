@@ -4,6 +4,7 @@
 #include <iostream>
 #include <vector>
 #include "Bloque.h"
+#include <ctime>
 using namespace std;
 
 class Tablero {
