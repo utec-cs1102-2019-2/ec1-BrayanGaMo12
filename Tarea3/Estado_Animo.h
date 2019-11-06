@@ -1,16 +1,17 @@
-//
-// Created by brayan.garcia on 31/10/2019.
-//
-
-#ifndef TAREA3_ESTADO_ANIMO_H
-#define TAREA3_ESTADO_ANIMO_H
-
-
+#ifndef TAREA_ESTADO_ANIMO_H
+#define TAREA_ESTADO_ANIMO_H
+#include <iostream>
+using namespace std;
 
 class Estado_Animo {
+private:
+    int animo=0;
 
+public:
+    Estado_Animo();
+    Estado_Animo(int animo);
+    void mostrar();
 };
 
 
-
-#endif //TAREA3_ESTADO_ANIMO_H
+#endif //TAREA_ESTADO_ANIMO_H
