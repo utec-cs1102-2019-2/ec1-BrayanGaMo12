@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/brayan.garcia/Desktop/BrayanGM/ec1-BrayanGaMo12/Session12A/Bicicleta.h
+Vehiculo.h
+C:/Users/brayan.garcia/Desktop/BrayanGM/ec1-BrayanGaMo12/Session12A/Vehiculo.h
+
+C:/Users/brayan.garcia/Desktop/BrayanGM/ec1-BrayanGaMo12/Session12A/Vehiculo.h
+
+C:/Users/brayan.garcia/Desktop/BrayanGM/ec1-BrayanGaMo12/Session12A/main.cpp
+iostream
+-
+Vehiculo.h
+C:/Users/brayan.garcia/Desktop/BrayanGM/ec1-BrayanGaMo12/Session12A/Vehiculo.h
+Bicicleta.h
+C:/Users/brayan.garcia/Desktop/BrayanGM/ec1-BrayanGaMo12/Session12A/Bicicleta.h
+vector
+-
+
