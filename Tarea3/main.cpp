@@ -8,6 +8,6 @@ int main() {
     cout<<"¿Cuantas veces comera?"<<endl; cin>>a;
     Comida *Gandalf=new Comida(a);
     Gandalf->cantidad(a);
-    Estado_Animo *Gandalf1=new Estado_Animo();
+    Estado_Animo *Gandalf1=new Estado_Animo(10);
     Gandalf1->mostrar();
 }
