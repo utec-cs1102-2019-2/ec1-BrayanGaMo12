@@ -1,5 +1,7 @@
 #include "Comida.h"
 using namespace std;
+Comida::Comida(int cant) {
+    this->cant=cant;
 Comida::Comida(string alimento, int animo, int cant) {
     this ->alimento=alimento;
     this ->animo=animo;
