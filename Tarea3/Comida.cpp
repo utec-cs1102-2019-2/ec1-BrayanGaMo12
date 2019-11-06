@@ -1,20 +1,34 @@
-#ifndef TAREA_COMIDA_H
-#define TAREA_COMIDA_H
-#include "Estado_Animo.h"
-#include <iostream>
+#include "Comida.h"
 using namespace std;
-class Comida {
-private:
-    string alimento;
-    int cant;
-public:
-    Comida(int cant);
-    Comida(string alimento, int animo, int cant);
-    void cantidad(int cant);
-    int animo;
+Comida::Comida(string alimento, int animo, int cant) {
+    this ->alimento=alimento;
+    this ->animo=animo;
+    this ->cant=cant;
 
-
-};
-
-
-#endif //TAREA_COMIDA_H
+}
+void Comida::cantidad(int cant) {
+    cout<<"¿Que comera?(Abarrote, Lembas, Manzana, Melon, HoneyCake, Hongos, Cualquiercosa):"<<endl;
+    for(int i=0;i<cant;i++){
+        cout<<"¿Que mas comera?:"<<endl;cin>>alimento;
+    }
+    if (alimento=="Abarrote"){
+        animo+=2;
+    }
+    if (alimento=="Lembas"){
+        animo+=3;
+    }
+    if (alimento=="Manzana"){
+        animo+=1;
+    }
+    if (alimento=="Melon"){
+        animo+=1;
+    }
+    if (alimento=="HoneyCake"){
+        animo+=5;
+    }
+    if (alimento=="Hongos"){
+        animo-=10;
+    }else{
+        animo-=1;
+    }
+}
