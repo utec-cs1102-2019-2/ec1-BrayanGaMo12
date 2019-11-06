@@ -8,7 +8,7 @@ private:
     int animo=0;
 
 public:
-    Estado_Animo();
+
     Estado_Animo(int animo);
     void mostrar();
 };
