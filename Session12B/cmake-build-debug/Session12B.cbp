@@ -82,6 +82,24 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/brayan.garcia/Desktop/BrayanGM/ec1-BrayanGaMo12/Session12B/Gato.cpp">
+			<Option target="Session12B"/>
+		</Unit>
+		<Unit filename="C:/Users/brayan.garcia/Desktop/BrayanGM/ec1-BrayanGaMo12/Session12B/Gato.h">
+			<Option target="Session12B"/>
+		</Unit>
+		<Unit filename="C:/Users/brayan.garcia/Desktop/BrayanGM/ec1-BrayanGaMo12/Session12B/Mascota.cpp">
+			<Option target="Session12B"/>
+		</Unit>
+		<Unit filename="C:/Users/brayan.garcia/Desktop/BrayanGM/ec1-BrayanGaMo12/Session12B/Mascota.h">
+			<Option target="Session12B"/>
+		</Unit>
+		<Unit filename="C:/Users/brayan.garcia/Desktop/BrayanGM/ec1-BrayanGaMo12/Session12B/Perro.cpp">
+			<Option target="Session12B"/>
+		</Unit>
+		<Unit filename="C:/Users/brayan.garcia/Desktop/BrayanGM/ec1-BrayanGaMo12/Session12B/Perro.h">
+			<Option target="Session12B"/>
+		</Unit>
 		<Unit filename="C:/Users/brayan.garcia/Desktop/BrayanGM/ec1-BrayanGaMo12/Session12B/main.cpp">
 			<Option target="Session12B"/>
 		</Unit>

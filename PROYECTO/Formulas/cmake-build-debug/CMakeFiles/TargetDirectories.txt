@@ -1,0 +1,3 @@
+C:/Users/brayan.garcia/Desktop/BrayanGM/ec1-BrayanGaMo12/PROYECTO/Formulas/cmake-build-debug/CMakeFiles/Formulas.dir
+C:/Users/brayan.garcia/Desktop/BrayanGM/ec1-BrayanGaMo12/PROYECTO/Formulas/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/brayan.garcia/Desktop/BrayanGM/ec1-BrayanGaMo12/PROYECTO/Formulas/cmake-build-debug/CMakeFiles/rebuild_cache.dir

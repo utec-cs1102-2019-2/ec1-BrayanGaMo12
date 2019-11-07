@@ -77,17 +77,80 @@ CMakeFiles\Session12B.dir\main.cpp.s: cmake_force
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\Session12B.dir\main.cpp.s /c C:\Users\brayan.garcia\Desktop\BrayanGM\ec1-BrayanGaMo12\Session12B\main.cpp
 <<
 
+CMakeFiles\Session12B.dir\Mascota.cpp.obj: CMakeFiles\Session12B.dir\flags.make
+CMakeFiles\Session12B.dir\Mascota.cpp.obj: ..\Mascota.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\brayan.garcia\Desktop\BrayanGM\ec1-BrayanGaMo12\Session12B\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Session12B.dir/Mascota.cpp.obj"
+	C:\PROGRA~2\MICROS~4\2019\PROFES~1\VC\Tools\MSVC\1421~1.277\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\Session12B.dir\Mascota.cpp.obj /FdCMakeFiles\Session12B.dir\ /FS -c C:\Users\brayan.garcia\Desktop\BrayanGM\ec1-BrayanGaMo12\Session12B\Mascota.cpp
+<<
+
+CMakeFiles\Session12B.dir\Mascota.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Session12B.dir/Mascota.cpp.i"
+	C:\PROGRA~2\MICROS~4\2019\PROFES~1\VC\Tools\MSVC\1421~1.277\bin\Hostx86\x86\cl.exe > CMakeFiles\Session12B.dir\Mascota.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\brayan.garcia\Desktop\BrayanGM\ec1-BrayanGaMo12\Session12B\Mascota.cpp
+<<
+
+CMakeFiles\Session12B.dir\Mascota.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Session12B.dir/Mascota.cpp.s"
+	C:\PROGRA~2\MICROS~4\2019\PROFES~1\VC\Tools\MSVC\1421~1.277\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\Session12B.dir\Mascota.cpp.s /c C:\Users\brayan.garcia\Desktop\BrayanGM\ec1-BrayanGaMo12\Session12B\Mascota.cpp
+<<
+
+CMakeFiles\Session12B.dir\Perro.cpp.obj: CMakeFiles\Session12B.dir\flags.make
+CMakeFiles\Session12B.dir\Perro.cpp.obj: ..\Perro.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\brayan.garcia\Desktop\BrayanGM\ec1-BrayanGaMo12\Session12B\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Session12B.dir/Perro.cpp.obj"
+	C:\PROGRA~2\MICROS~4\2019\PROFES~1\VC\Tools\MSVC\1421~1.277\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\Session12B.dir\Perro.cpp.obj /FdCMakeFiles\Session12B.dir\ /FS -c C:\Users\brayan.garcia\Desktop\BrayanGM\ec1-BrayanGaMo12\Session12B\Perro.cpp
+<<
+
+CMakeFiles\Session12B.dir\Perro.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Session12B.dir/Perro.cpp.i"
+	C:\PROGRA~2\MICROS~4\2019\PROFES~1\VC\Tools\MSVC\1421~1.277\bin\Hostx86\x86\cl.exe > CMakeFiles\Session12B.dir\Perro.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\brayan.garcia\Desktop\BrayanGM\ec1-BrayanGaMo12\Session12B\Perro.cpp
+<<
+
+CMakeFiles\Session12B.dir\Perro.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Session12B.dir/Perro.cpp.s"
+	C:\PROGRA~2\MICROS~4\2019\PROFES~1\VC\Tools\MSVC\1421~1.277\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\Session12B.dir\Perro.cpp.s /c C:\Users\brayan.garcia\Desktop\BrayanGM\ec1-BrayanGaMo12\Session12B\Perro.cpp
+<<
+
+CMakeFiles\Session12B.dir\Gato.cpp.obj: CMakeFiles\Session12B.dir\flags.make
+CMakeFiles\Session12B.dir\Gato.cpp.obj: ..\Gato.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\brayan.garcia\Desktop\BrayanGM\ec1-BrayanGaMo12\Session12B\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Session12B.dir/Gato.cpp.obj"
+	C:\PROGRA~2\MICROS~4\2019\PROFES~1\VC\Tools\MSVC\1421~1.277\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\Session12B.dir\Gato.cpp.obj /FdCMakeFiles\Session12B.dir\ /FS -c C:\Users\brayan.garcia\Desktop\BrayanGM\ec1-BrayanGaMo12\Session12B\Gato.cpp
+<<
+
+CMakeFiles\Session12B.dir\Gato.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Session12B.dir/Gato.cpp.i"
+	C:\PROGRA~2\MICROS~4\2019\PROFES~1\VC\Tools\MSVC\1421~1.277\bin\Hostx86\x86\cl.exe > CMakeFiles\Session12B.dir\Gato.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\brayan.garcia\Desktop\BrayanGM\ec1-BrayanGaMo12\Session12B\Gato.cpp
+<<
+
+CMakeFiles\Session12B.dir\Gato.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Session12B.dir/Gato.cpp.s"
+	C:\PROGRA~2\MICROS~4\2019\PROFES~1\VC\Tools\MSVC\1421~1.277\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\Session12B.dir\Gato.cpp.s /c C:\Users\brayan.garcia\Desktop\BrayanGM\ec1-BrayanGaMo12\Session12B\Gato.cpp
+<<
+
 # Object files for target Session12B
 Session12B_OBJECTS = \
-"CMakeFiles\Session12B.dir\main.cpp.obj"
+"CMakeFiles\Session12B.dir\main.cpp.obj" \
+"CMakeFiles\Session12B.dir\Mascota.cpp.obj" \
+"CMakeFiles\Session12B.dir\Perro.cpp.obj" \
+"CMakeFiles\Session12B.dir\Gato.cpp.obj"
 
 # External object files for target Session12B
 Session12B_EXTERNAL_OBJECTS =
 
 Session12B.exe: CMakeFiles\Session12B.dir\main.cpp.obj
+Session12B.exe: CMakeFiles\Session12B.dir\Mascota.cpp.obj
+Session12B.exe: CMakeFiles\Session12B.dir\Perro.cpp.obj
+Session12B.exe: CMakeFiles\Session12B.dir\Gato.cpp.obj
 Session12B.exe: CMakeFiles\Session12B.dir\build.make
 Session12B.exe: CMakeFiles\Session12B.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\brayan.garcia\Desktop\BrayanGM\ec1-BrayanGaMo12\Session12B\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Session12B.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\brayan.garcia\Desktop\BrayanGM\ec1-BrayanGaMo12\Session12B\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable Session12B.exe"
 	"C:\Program Files\JetBrains\CLion 2018.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\Session12B.dir --manifests  -- C:\PROGRA~2\MICROS~4\2019\PROFES~1\VC\Tools\MSVC\1421~1.277\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\Session12B.dir\objects1.rsp @<<
  /out:Session12B.exe /implib:Session12B.lib /pdb:C:\Users\brayan.garcia\Desktop\BrayanGM\ec1-BrayanGaMo12\Session12B\cmake-build-debug\Session12B.pdb /version:0.0  /machine:X86 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
 <<

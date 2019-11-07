@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/brayan.garcia/Desktop/BrayanGM/ec1-BrayanGaMo12/Session12B/Gato.cpp
+Gato.h
+C:/Users/brayan.garcia/Desktop/BrayanGM/ec1-BrayanGaMo12/Session12B/Gato.h
+
+C:/Users/brayan.garcia/Desktop/BrayanGM/ec1-BrayanGaMo12/Session12B/Gato.h
+Mascota.h
+C:/Users/brayan.garcia/Desktop/BrayanGM/ec1-BrayanGaMo12/Session12B/Mascota.h
+
+C:/Users/brayan.garcia/Desktop/BrayanGM/ec1-BrayanGaMo12/Session12B/Mascota.cpp
+Mascota.h
+C:/Users/brayan.garcia/Desktop/BrayanGM/ec1-BrayanGaMo12/Session12B/Mascota.h
+
+C:/Users/brayan.garcia/Desktop/BrayanGM/ec1-BrayanGaMo12/Session12B/Mascota.h
+iostream
+-
+
+C:/Users/brayan.garcia/Desktop/BrayanGM/ec1-BrayanGaMo12/Session12B/Perro.cpp
+Perro.h
+C:/Users/brayan.garcia/Desktop/BrayanGM/ec1-BrayanGaMo12/Session12B/Perro.h
+
+C:/Users/brayan.garcia/Desktop/BrayanGM/ec1-BrayanGaMo12/Session12B/Perro.h
+Mascota.h
+C:/Users/brayan.garcia/Desktop/BrayanGM/ec1-BrayanGaMo12/Session12B/Mascota.h
+iostream
+-
+
+C:/Users/brayan.garcia/Desktop/BrayanGM/ec1-BrayanGaMo12/Session12B/main.cpp
+iostream
+-
+Mascota.h
+C:/Users/brayan.garcia/Desktop/BrayanGM/ec1-BrayanGaMo12/Session12B/Mascota.h
+Gato.h
+C:/Users/brayan.garcia/Desktop/BrayanGM/ec1-BrayanGaMo12/Session12B/Gato.h
+Perro.h
+C:/Users/brayan.garcia/Desktop/BrayanGM/ec1-BrayanGaMo12/Session12B/Perro.h
+vector
+-
+

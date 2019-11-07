@@ -124,6 +124,87 @@ Session12B\fast:
 	$(MAKE) -f CMakeFiles\Session12B.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Session12B.dir\build
 .PHONY : Session12B\fast
 
+Gato.obj: Gato.cpp.obj
+
+.PHONY : Gato.obj
+
+# target to build an object file
+Gato.cpp.obj:
+	$(MAKE) -f CMakeFiles\Session12B.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Session12B.dir\Gato.cpp.obj
+.PHONY : Gato.cpp.obj
+
+Gato.i: Gato.cpp.i
+
+.PHONY : Gato.i
+
+# target to preprocess a source file
+Gato.cpp.i:
+	$(MAKE) -f CMakeFiles\Session12B.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Session12B.dir\Gato.cpp.i
+.PHONY : Gato.cpp.i
+
+Gato.s: Gato.cpp.s
+
+.PHONY : Gato.s
+
+# target to generate assembly for a file
+Gato.cpp.s:
+	$(MAKE) -f CMakeFiles\Session12B.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Session12B.dir\Gato.cpp.s
+.PHONY : Gato.cpp.s
+
+Mascota.obj: Mascota.cpp.obj
+
+.PHONY : Mascota.obj
+
+# target to build an object file
+Mascota.cpp.obj:
+	$(MAKE) -f CMakeFiles\Session12B.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Session12B.dir\Mascota.cpp.obj
+.PHONY : Mascota.cpp.obj
+
+Mascota.i: Mascota.cpp.i
+
+.PHONY : Mascota.i
+
+# target to preprocess a source file
+Mascota.cpp.i:
+	$(MAKE) -f CMakeFiles\Session12B.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Session12B.dir\Mascota.cpp.i
+.PHONY : Mascota.cpp.i
+
+Mascota.s: Mascota.cpp.s
+
+.PHONY : Mascota.s
+
+# target to generate assembly for a file
+Mascota.cpp.s:
+	$(MAKE) -f CMakeFiles\Session12B.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Session12B.dir\Mascota.cpp.s
+.PHONY : Mascota.cpp.s
+
+Perro.obj: Perro.cpp.obj
+
+.PHONY : Perro.obj
+
+# target to build an object file
+Perro.cpp.obj:
+	$(MAKE) -f CMakeFiles\Session12B.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Session12B.dir\Perro.cpp.obj
+.PHONY : Perro.cpp.obj
+
+Perro.i: Perro.cpp.i
+
+.PHONY : Perro.i
+
+# target to preprocess a source file
+Perro.cpp.i:
+	$(MAKE) -f CMakeFiles\Session12B.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Session12B.dir\Perro.cpp.i
+.PHONY : Perro.cpp.i
+
+Perro.s: Perro.cpp.s
+
+.PHONY : Perro.s
+
+# target to generate assembly for a file
+Perro.cpp.s:
+	$(MAKE) -f CMakeFiles\Session12B.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Session12B.dir\Perro.cpp.s
+.PHONY : Perro.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -160,6 +241,15 @@ help:
 	@echo ... Session12B
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... Gato.obj
+	@echo ... Gato.i
+	@echo ... Gato.s
+	@echo ... Mascota.obj
+	@echo ... Mascota.i
+	@echo ... Mascota.s
+	@echo ... Perro.obj
+	@echo ... Perro.i
+	@echo ... Perro.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
