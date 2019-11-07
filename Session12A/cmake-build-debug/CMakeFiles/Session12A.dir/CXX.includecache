@@ -6,7 +6,33 @@
 
 #IncludeRegexTransform: 
 
+C:/Users/brayan.garcia/Desktop/BrayanGM/ec1-BrayanGaMo12/Session12A/Bicicleta.cpp
+Bicicleta.h
 C:/Users/brayan.garcia/Desktop/BrayanGM/ec1-BrayanGaMo12/Session12A/Bicicleta.h
+iostream
+-
+ctime
+-
+
+C:/Users/brayan.garcia/Desktop/BrayanGM/ec1-BrayanGaMo12/Session12A/Bicicleta.h
+Vehiculo.h
+C:/Users/brayan.garcia/Desktop/BrayanGM/ec1-BrayanGaMo12/Session12A/Vehiculo.h
+
+C:/Users/brayan.garcia/Desktop/BrayanGM/ec1-BrayanGaMo12/Session12A/Bote.cpp
+Bote.h
+C:/Users/brayan.garcia/Desktop/BrayanGM/ec1-BrayanGaMo12/Session12A/Bote.h
+ctime
+-
+cstdlib
+-
+iostream
+-
+
+C:/Users/brayan.garcia/Desktop/BrayanGM/ec1-BrayanGaMo12/Session12A/Bote.h
+Vehiculo.h
+C:/Users/brayan.garcia/Desktop/BrayanGM/ec1-BrayanGaMo12/Session12A/Vehiculo.h
+
+C:/Users/brayan.garcia/Desktop/BrayanGM/ec1-BrayanGaMo12/Session12A/Vehiculo.cpp
 Vehiculo.h
 C:/Users/brayan.garcia/Desktop/BrayanGM/ec1-BrayanGaMo12/Session12A/Vehiculo.h
 
@@ -19,6 +45,8 @@ Vehiculo.h
 C:/Users/brayan.garcia/Desktop/BrayanGM/ec1-BrayanGaMo12/Session12A/Vehiculo.h
 Bicicleta.h
 C:/Users/brayan.garcia/Desktop/BrayanGM/ec1-BrayanGaMo12/Session12A/Bicicleta.h
+Bote.h
+C:/Users/brayan.garcia/Desktop/BrayanGM/ec1-BrayanGaMo12/Session12A/Bote.h
 vector
 -
 

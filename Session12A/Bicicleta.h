@@ -2,11 +2,11 @@
 #define SESSION12A_BICICLETA_H
 
 #include "Vehiculo.h"
-class Bicicleta : Vehiculo {
+class Bicicleta : public Vehiculo {
 public:
-    void avanzar();
-    void retroceder();
     Bicicleta();
+    void avanzar() override;
+    void retroceder() override;
 };
 
 #endif //SESSION12A_BICICLETA_H

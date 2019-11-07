@@ -13,6 +13,7 @@ CMakeFiles\Session12A.dir\Vehiculo.cpp.obj: ..\Vehiculo.cpp
 CMakeFiles\Session12A.dir\Vehiculo.cpp.obj: ..\Vehiculo.h
 
 CMakeFiles\Session12A.dir\main.cpp.obj: ..\Bicicleta.h
+CMakeFiles\Session12A.dir\main.cpp.obj: ..\Bote.h
 CMakeFiles\Session12A.dir\main.cpp.obj: ..\Vehiculo.h
 CMakeFiles\Session12A.dir\main.cpp.obj: ..\main.cpp
 

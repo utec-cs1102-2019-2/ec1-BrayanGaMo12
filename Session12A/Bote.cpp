@@ -1,10 +1,11 @@
+
 #include "Bote.h"
 #include <ctime>
-#include <iostream>
 #include <cstdlib>
+#include <iostream>
+
 using namespace std;
 void Bote::avanzar() {
-    Vehiculo::avanzar();
     posX = posX + velocidadActual;
     posY = posY + velocidadActual;
     cout<<"Bote avanza"<<endl;
@@ -13,9 +14,10 @@ void Bote::avanzar() {
 void Bote::retroceder() {
     posX = posX - velocidadActual;
     posY = posY - velocidadActual;
-    cout<<"Bote retocede"<<endl;
+    cout<<"Bote retrocede"<<endl;
 }
-Bote::Bote(){
+
+Bote::Bote() {
     posX = 0;
     posY = 0;
     srand(time(nullptr));

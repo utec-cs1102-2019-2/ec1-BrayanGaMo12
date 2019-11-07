@@ -1,14 +1,17 @@
+
 #ifndef SESSION12A_BOTE_H
 #define SESSION12A_BOTE_H
 
-
 #include "Vehiculo.h"
 
-class Bote : public Vehiculo {
-public:
-    void avanzar() override;
+class Bote: public Vehiculo {
 
-    void retroceder() override;
+public:
+    Bote();
+
+    void avanzar() override ;
+
+    void retroceder() override ;
 };
 
 

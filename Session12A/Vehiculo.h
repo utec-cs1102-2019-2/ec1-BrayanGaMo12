@@ -2,6 +2,8 @@
 #ifndef SESSION12A_VEHICULO_H
 #define SESSION12A_VEHICULO_H
 
+
+
 class Vehiculo {
 public:
     int velocidadMaxima;
@@ -10,9 +12,9 @@ public:
     int posX;
     int posY;
 
-    void avanzar();
-
-    void retroceder();
+    Vehiculo();
+    virtual void avanzar()=0;
+    virtual void retroceder()=0;
 };
 
-#endif //SESSION12A_VEHICULO_H
+#endif //SESSION12A_VEHICULO_H_VEHICULO_H
