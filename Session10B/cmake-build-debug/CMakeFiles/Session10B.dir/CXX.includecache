@@ -6,13 +6,19 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/brayan.garcia/Desktop/BrayanGM/ec1-BrayanGaMo12/Session10B/Persona.cpp
+C:/Users/brayan.garcia/Desktop/BrayanGM/ec1-BrayanGaMo12/Session10B/Alumno.h
 Persona.h
 C:/Users/brayan.garcia/Desktop/BrayanGM/ec1-BrayanGaMo12/Session10B/Persona.h
-iostream
--
 
 C:/Users/brayan.garcia/Desktop/BrayanGM/ec1-BrayanGaMo12/Session10B/Persona.h
 iostream
 -
+
+C:/Users/brayan.garcia/Desktop/BrayanGM/ec1-BrayanGaMo12/Session10B/main.cpp
+iostream
+-
+Persona.h
+C:/Users/brayan.garcia/Desktop/BrayanGM/ec1-BrayanGaMo12/Session10B/Persona.h
+Alumno.h
+C:/Users/brayan.garcia/Desktop/BrayanGM/ec1-BrayanGaMo12/Session10B/Alumno.h
 

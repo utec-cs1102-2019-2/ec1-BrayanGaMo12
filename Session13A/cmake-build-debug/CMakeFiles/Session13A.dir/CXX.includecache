@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/brayan.garcia/Desktop/BrayanGM/ec1-BrayanGaMo12/Session13A/Cuadrado.h
+iostream
+-
+
+C:/Users/brayan.garcia/Desktop/BrayanGM/ec1-BrayanGaMo12/Session13A/Tablero.h
+iostream
+-
+vector
+-
+Cuadrado.h
+C:/Users/brayan.garcia/Desktop/BrayanGM/ec1-BrayanGaMo12/Session13A/Cuadrado.h
+
+C:/Users/brayan.garcia/Desktop/BrayanGM/ec1-BrayanGaMo12/Session13A/main.cpp
+iostream
+-
+Tablero.h
+C:/Users/brayan.garcia/Desktop/BrayanGM/ec1-BrayanGaMo12/Session13A/Tablero.h
+
