@@ -1,19 +1,13 @@
 #ifndef SESSION14A_CARTA_H
 #define SESSION14A_CARTA_H
-#include <vector>
-#include "Palo.h"
 
+#include <iostream>
+using namespace std;
 class Carta {
-private:
-    int numero=0;
-    Palo *palo;
 public:
-    Carta();
-    ~Carta();
-    void cartas();
-
-
+    int numero;
+    string palo;
+    Carta(int numero, string palo);
+    void mostrar();
 };
-
-
 #endif //SESSION14A_CARTA_H

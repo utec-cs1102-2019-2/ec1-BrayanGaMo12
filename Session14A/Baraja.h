@@ -1,16 +1,16 @@
+
 #ifndef SESSION14A_BARAJA_H
 #define SESSION14A_BARAJA_H
-#include "Palo.h"
+
 #include <iostream>
 #include <vector>
+#include "Palo.h"
+using namespace std;
 
 class Baraja {
-private:
-    vector<Palo>palos;
 public:
+    vector<Palo> palos;
     Baraja();
-
-
 };
 
 

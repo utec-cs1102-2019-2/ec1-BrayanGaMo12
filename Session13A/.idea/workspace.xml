@@ -11,30 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e27df43-4377-4bf6-aa56-eb5cce33bd2c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bot.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bot.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cuadrado.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cuadrado.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Humano.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Humano.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jugador.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jugador.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tablero.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tablero.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Session10B/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Session10B/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Session10B/cmake-build-debug/CMakeFiles/Session10B.dir/Alumno.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../Session10B/cmake-build-debug/CMakeFiles/Session10B.dir/Alumno.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Session10B/cmake-build-debug/CMakeFiles/Session10B.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../Session10B/cmake-build-debug/CMakeFiles/Session10B.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Session10B/cmake-build-debug/CMakeFiles/Session10B.dir/Carrera.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../Session10B/cmake-build-debug/CMakeFiles/Session10B.dir/Carrera.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Session10B/cmake-build-debug/CMakeFiles/Session10B.dir/Curso.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../Session10B/cmake-build-debug/CMakeFiles/Session10B.dir/Curso.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Session10B/cmake-build-debug/CMakeFiles/Session10B.dir/Persona.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../Session10B/cmake-build-debug/CMakeFiles/Session10B.dir/Persona.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Session10B/cmake-build-debug/CMakeFiles/Session10B.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../Session10B/cmake-build-debug/CMakeFiles/Session10B.dir/main.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Session10B/cmake-build-debug/CMakeFiles/Session10B.dir/vc140.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Session10B/cmake-build-debug/CMakeFiles/Session10B.dir/vc140.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Session10B/cmake-build-debug/Session10B.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Session10B/cmake-build-debug/Session10B.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Session10B/cmake-build-debug/Session10B.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../Session10B/cmake-build-debug/Session10B.ilk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Session10B/cmake-build-debug/Session10B.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Session10B/cmake-build-debug/Session10B.pdb" afterDir="false" />
-    </list>
+    <list default="true" id="2e27df43-4377-4bf6-aa56-eb5cce33bd2c" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +26,7 @@
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -179,6 +156,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Session14A" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="CPPToolchains" />
@@ -214,20 +192,19 @@
       <updated>1573676432176</updated>
       <workItem from="1573676433313" duration="3668000" />
       <workItem from="1573680119126" duration="678000" />
+      <workItem from="1574346440526" duration="35000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4346000" />
+    <option name="totallyTimeSpent" value="4381000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.141258" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14285715" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -240,6 +217,7 @@
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="CMake" order="11" />
+      <window_info active="true" anchor="bottom" id="Messages" order="12" visible="true" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -263,6 +241,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jugador.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Humano.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -277,6 +269,13 @@
           <folding>
             <element signature="e#57#77#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tablero.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -297,27 +296,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tablero.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jugador.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
         </state>
       </provider>
     </entry>
